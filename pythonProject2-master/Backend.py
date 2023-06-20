@@ -9,7 +9,7 @@ import traceback
 import CameraControl
 import datetime
 import time
-# import bver_algorithm as Off
+import bver_algorithm as Off
 from Layout_signIn import Ui_Dialog
 from PyQt5 import QtWidgets, Qt
 from PyQt5.QtWidgets import QWidget, QFileDialog, QApplication
